@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jsonp"
+    }
+  },
+  "defaultProject": "jsonp",
+  "cli": {
+    "analytics": false
+  }
 }
